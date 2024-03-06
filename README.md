@@ -2,7 +2,7 @@
 
 This repository contains a simple example of using the different Input types with built-in validation from the FormFusion [library](https://www.corelabui.com/)
 
-It is built with React, a popular JavaScript library for building user interfaces, providing a familiar and efficient development experience. Utilizes Vite as the build tool, offering fast and optimized builds for improved development workflow. Integrates @corelabui/rfm for seamless form handling, including validation and submission functionality.
+It is built with React, a popular JavaScript library for building user interfaces, providing a familiar and efficient development experience. Utilizes Vite as the build tool, offering fast and optimized builds for improved development workflow. Integrates formfusion for seamless form handling, including validation and submission functionality.
 
 ## Usage
 
