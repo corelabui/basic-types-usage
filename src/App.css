@@ -1,0 +1,38 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  padding: 1.5em;
+}
+
+.form__fieldControl {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+}
+
+.form__field {
+  padding: 1em;
+  border: 1px solid #717171;
+  border-radius: 3px;
+}
+
+.form__field:invalid {
+  border: 1px solid red;
+}
+
+.form__field__label {
+  font-size: 16px;
+  color: #414141;
+}
+
+.form__field__error-message {
+  font-size: 15px;
+  color: red;
+}
+
+.form__fieldControl > p {
+  font-size: 14px;
+  margin: 0.5em 0;
+  line-height: 1.5;
+}
